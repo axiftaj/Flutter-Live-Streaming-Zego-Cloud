@@ -1,0 +1,49 @@
+PODS:
+  - Flutter (1.0.0)
+  - native_device_orientation (0.0.1):
+    - Flutter
+  - permission_handler_apple (9.0.4):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+  - zego_express_engine (2.23.0):
+    - Flutter
+    - ZegoExpressEngine (~> 2.23.0)
+  - ZegoExpressEngine (2.23.0):
+    - ZegoExpressEngine/Video (= 2.23.0)
+  - ZegoExpressEngine/Video (2.23.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - native_device_orientation (from `.symlinks/plugins/native_device_orientation/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - wakelock (from `.symlinks/plugins/wakelock/ios`)
+  - zego_express_engine (from `.symlinks/plugins/zego_express_engine/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ZegoExpressEngine
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  native_device_orientation:
+    :path: ".symlinks/plugins/native_device_orientation/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  wakelock:
+    :path: ".symlinks/plugins/wakelock/ios"
+  zego_express_engine:
+    :path: ".symlinks/plugins/zego_express_engine/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  native_device_orientation: 3b4cfc9565a7b879cc4fde282b3e27745e852d0d
+  permission_handler_apple: 44366e37eaf29454a1e7b1b7d736c2cceaeb17ce
+  wakelock: d0fc7c864128eac40eba1617cb5264d9c940b46f
+  zego_express_engine: 79387e571f9d3bd0a467200c21187c35647244b1
+  ZegoExpressEngine: 2a02a784a20f2fc327af8d09b528806ec00fa93e
+
+PODFILE CHECKSUM: 6f22b2a183eeb37b06030bd1cf74ea8bb316163b
+
+COCOAPODS: 1.11.2
