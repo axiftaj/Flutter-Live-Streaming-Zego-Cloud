@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_live_streaming_app/home_screen.dart';
+import 'package:flutter_live_streaming_app/video_calling.dart';
 
 Future main() async {
   runApp(const MyApp());
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Zego Live Streaming',
-      home: HomeScreen(),
+      home: VideoCalling(),
     );
   }
 }
