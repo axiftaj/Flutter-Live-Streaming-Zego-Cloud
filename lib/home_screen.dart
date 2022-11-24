@@ -3,7 +3,8 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_live_streaming_app/live_sceen.dart';
+import 'package:flutter_live_streaming_app/live_screen.dart';
+
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
