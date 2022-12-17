@@ -1,6 +1,7 @@
 
 class Utils {
 
-  static int appId = 121212 ;
-  static String appSignin = "your sign in" ;
+  static int appId =  ;
+  static String appSignin = "" ;
+
 }
