@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Zego Video Calling',
-      home:  GroupCallPage(),
+      home:  GroupCallScreen(),
     );
   }
 }
